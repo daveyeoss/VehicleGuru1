@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VehicleGuru1</string>
+    <string name="title_home">Home</string>
+    <string name="title_Depre">Depreciation</string>
+    <string name="title_Loan">Loan</string>
+    <string name="purchase_price">Purchase Price :</string>
+    <string name="Down_payment">Down Payment :</string>
+    <string name="Loan_amount">Loan Amount :</string>
+    <string name="Loan_amount_result"></string>
+    <string name="interest_rate">Interest Rate :</string>
+    <string name="loan_period">Loan Period :</string>
+    <string name="Calculate">Calculate</string>
+    <string name="monthly_payment">Monthly Installment :</string>
+    <string name="total_interest">Total Interest :</string>
+    <string name="showloanpayment">Calculate</string>
+    <string name="monthly_payment_result"></string>
+    <string name="monthlydepre"></string>
+    <string name="yearlydepre"></string>
+</resources>
